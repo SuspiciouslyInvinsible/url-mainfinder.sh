@@ -6,7 +6,9 @@ This is a recon script which finds domains frowm sublister and subfinder and run
 
 installation: 
 1.git clone https://github.com/SuspiciouslyInvinsible/url-mainfinder.sh.git
+
 2. cd url-mainfinder.sh
+
 3.chmod +x url-mainfinder.sh
 
 use case : simply run ./url-mainfinder [domain name]
